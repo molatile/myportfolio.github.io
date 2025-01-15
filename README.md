@@ -1,7 +1,7 @@
 # myportfolio.github.io:
 
 INDEX.HTML-----------
-This port-folio was made to represent my ideas and knowledge on the application of web development
+This port-folio was made to represent my ideas and knowledge of application of web development
 
 index.html:
 
